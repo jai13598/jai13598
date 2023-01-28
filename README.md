@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jai13598
 - 👀 I’m interested in Full Stack Developer Role.
-- 🌱 I’m currently learning JS and React.
+- 🌱 I’m currently working on React js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jaipratapsingh13598@gmail.com
 
