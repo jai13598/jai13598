@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Developer Role.
 - 🌱 I’m currently working on React js.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jaipratapsingh13598@gmail.com
+
 
 <!---
 jai13598/jai13598 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
