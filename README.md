@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jai13598
-- 👀 I’m interested in Full Stack Developer Role.
-- 🌱 I’m currently working on React js.
+- 👀 I’m a Full Stack Developer in Java.
+- 🌱 I’m currently working with React js & Spring boot tech stack.
 - 💞️ I’m looking to collaborate on ...
 
 
